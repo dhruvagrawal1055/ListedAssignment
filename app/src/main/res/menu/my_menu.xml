@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/link"
+        android:icon="@drawable/link"
+        android:title="Links" />
+    <item
+        android:id="@+id/courses"
+        android:icon="@drawable/course"
+        android:title="Courses" />
+    <item
+        android:id="@+id/add"
+        android:title="Add"
+        android:icon="@drawable/add" />
+    <item
+        android:id="@+id/Campaigns"
+        android:icon="@drawable/campaign"
+        android:title="Campaigns" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+</menu>
